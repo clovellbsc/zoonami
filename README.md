@@ -11,6 +11,6 @@ A very basic game at the moment.
 npm install
 ```
 
-- Ensure you are using VSCode and have vscode live serveer installed.
+- Ensure you are using VSCode and have vscode live server installed.
 
 - To run the project start the vscode live server whilst in the project root folder and it should open a tab with the game running
