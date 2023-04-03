@@ -14,3 +14,9 @@ npm install
 - Ensure you are using VSCode and have vscode live server installed.
 
 - To run the project start the vscode live server whilst in the project root folder and it should open a tab with the game running
+
+
+### Play
+- Move around the map with the arrow keys
+- When entering a battle, you can use the the up and down arrows to select an option. 
+- To select the highlighted option press the space bar
